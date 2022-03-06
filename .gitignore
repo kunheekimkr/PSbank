@@ -1,3 +1,8 @@
 *.dSYM
+<<<<<<< HEAD
 .vscode/
 .DS_STORE
+=======
+
+.vscode/
+>>>>>>> 0012469a461d0fec03085596dd0fe8571855b4fc
